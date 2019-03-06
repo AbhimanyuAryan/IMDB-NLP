@@ -15,3 +15,10 @@ This is a dataset for binary sentiment classification containing substantially m
 
 Universal Language Model Fine-tuning for Text Classification: https://arxiv.org/abs/1801.06146
 
+### Pretrained model that we used for Transfer Learning
+
+WikiText-2(SalesForce) by Stephen Merity
+
+The WikiText language modeling dataset is a collection of over 100 million tokens extracted from the set of verified Good and Featured articles on Wikipedia. The dataset is available under the Creative Commons Attribution-ShareAlike License.
+
+https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/
