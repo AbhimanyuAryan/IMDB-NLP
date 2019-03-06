@@ -22,3 +22,9 @@ WikiText-2(SalesForce) by Stephen Merity
 The WikiText language modeling dataset is a collection of over 100 million tokens extracted from the set of verified Good and Featured articles on Wikipedia. The dataset is available under the Creative Commons Attribution-ShareAlike License.
 
 https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/
+
+### Machine Info
+
+Trained on: AWS Instance p2.xlarge
+16 GIGS vRAM
+64 GB RAM
