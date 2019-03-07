@@ -23,6 +23,10 @@ The WikiText language modeling dataset is a collection of over 100 million token
 
 https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/
 
+### Implementation of RNN
+* Swift Key Keyboard: https://blog.swiftkey.com/swiftkey-debuts-worlds-first-smartphone-keyboard-powered-by-neural-networks/
+* Andrej Karpathy(Genrate Latex paper with RNN): http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
 ### Machine Info
 
 Trained on: AWS Instance p2.xlarge
